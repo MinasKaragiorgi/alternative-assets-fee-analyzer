@@ -252,8 +252,7 @@ University of Cyprus
 
 📧 Email: minaskaragiorgi28@gmail.com  
 📍 Location: Larnaca, Cyprus  
-💼 LinkedIn: [Your LinkedIn]  
-🐱 GitHub: [Your GitHub]
+
 
 ---
 
@@ -289,7 +288,7 @@ This tool is for educational and analytical purposes only. It does not constitut
 
 Questions? Suggestions? Want to discuss alternative investments or quantitative finance?
 
-📧 **minaskaragiorgi28@gmail.com**
+📧 **karagiorgiminas8@gmail.com**
 
 ---
 
