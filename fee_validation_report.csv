@@ -1,4 +1,0 @@
-fund_name,reported_mgmt_fee,calculated_mgmt_fee,mgmt_difference,mgmt_variance_%,mgmt_status,reported_perf_fee,calculated_perf_fee,perf_difference,perf_variance_%,perf_status
-Alpha Hedge Fund,207500,215000.0,7500.0,3.488372093023256,✗ FAIL,300000,257000.0,43000.0,16.731517509727624,✗ FAIL
-Beta Long/Short,512000,512000.0,0.0,0.0,✓ PASS,240000,137600.0,102400.0,74.4186046511628,✗ FAIL
-Gamma Macro Fund,985000,985000.0,0.0,0.0,✓ PASS,0,0.0,0.0,0.0,✓ PASS
